@@ -3,9 +3,9 @@
 <h3 align="left">👨🏻‍💻 About me:</h3>
 <p align="left">My name is Tony Manh. I am a front end web developer based in Japan.</p>
 
-- 🌱 I’m currently learning **TypeScript, NodeJS**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Language exchange**
+- 👯 I’m looking to collaborate on **Language exchange app**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<h3 align="left">💎 Others:</h3>
+<h3 align="left">🔫 Others:</h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
