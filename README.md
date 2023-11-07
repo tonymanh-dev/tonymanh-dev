@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <h3 align="left">👨🏻‍💻 About me:</h3>
-<p align="left">My name is Tony Manh. I am a front end web developer based in Japan.</p>
+<p align="left">My name is Tony Manh. I am a web developer based in Japan.</p>
 
 - 🌱 I’m currently learning **TypeScript**
 
