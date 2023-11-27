@@ -3,9 +3,9 @@
 <h3 align="left">👨🏻‍💻 About me:</h3>
 <p align="left">My name is Tony Manh. I am a web developer based in Japan.</p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently building **cool shit**
 
-- 👯 I’m looking to collaborate on **Language exchange app**
+- 👯 I’m looking to collaborate on **Language Learning Product**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
