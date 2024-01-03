@@ -3,7 +3,7 @@
 <h3 align="left">👨🏻‍💻 About me:</h3>
 <p align="left">My name is Tony Manh. I am a web developer based in Japan.</p>
 
-- 👯 I’m looking to collaborate on **Language Learning Product**
+👯 I’m looking to collaborate on **Language Learning Product**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
