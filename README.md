@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 <h3 align="left">👨🏻‍💻 About me:</h3>
-<p align="left">I'm Tony Manh, a web developer based in Japan.</p>
+<p align="left">I'm Tony Manh</p>
 
-I’m building cool things for the web.
+I’m building things.
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
