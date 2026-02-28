@@ -21,7 +21,6 @@ Mostly coding. Sometimes sleeping.
 
 - 🔭 Currently building **Stuley** (AI study tool)
 - 📱 Building mobile apps with React Native & Expo
-- 🌐 Creating full-stack SaaS with modern stacks
 - 🤖 Exploring AI Agents & automation
 - ⚡ Love clean UI + fast execution
 
