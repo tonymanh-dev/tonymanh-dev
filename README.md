@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # Hi 👋 I'm Tony Manh
 
@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center">
+<div>
 
 🇻🇳 Vietnam → 🇯🇵 Japan  
 
