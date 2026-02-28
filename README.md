@@ -19,14 +19,6 @@
 
 ---
 
-## 💻 About Me
-
-- 🔭 Currently building **Stuley** (AI study tool)
-- 📱 Building mobile apps with React Native & Expo
-- 🤖 Exploring AI Agents & automation
-- ⚡ Love clean UI + fast execution
-
----
 
 ## ⚒️ Tech Stack
 
