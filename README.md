@@ -1,19 +1,21 @@
 <div >
 
-# Hi 👋 I'm Tony Manh
-
-### 🚀 Indie Hacker building things on the internet
+# Hi 👋, I'm Tony Manh
 
 </div>
 
 <div>
 
-🇻🇳 Vietnam → 🇯🇵 Japan  
-
-Build to learn. Build to make.  
-Mostly coding. Sometimes sleeping.
+🚀 Indie Hacker building cool things on the internet.
 
 </div>
+
+## **💻 About Me**
+- 🇻🇳 Vietnam → 🇯🇵 Japan  
+- 🛠 Build to learn=> Building to make.  
+- 💻 Mostly coding. Sometime sleeping.  
+- 🤝 Open to collaborating on AI & SaaS projects
+- ⚡ Love clean UI + fast execution
 
 ---
 
