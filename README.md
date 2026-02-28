@@ -1,89 +1,193 @@
-<h1 align="center">Hey 👋 I'm Tony Manh</h1>
-<h3 align="center">Full-Stack Developer • Indie Hacker</h3>
-
-<p align="center">
-I build productivity products, mobile apps, and modern web platforms.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🧠 Building AI-powered apps & tools  
-- 📱 Shipping mobile apps with React Native & Expo  
-- 🌐 Creating full-stack SaaS products  
-- ⚡ Focused on speed, simplicity, and real users  
-- 🛠 Currently building & experimenting every day  
-
----
-
-## 🧑‍💻 Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
-
-### 🧩 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-</p>
-
-### 🔧 Backend & Infra
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
-
-### 🎨 Design & Workflow
-<p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonymanh-dev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+# Hi 👋 I'm Tony Manh
+
+### 🚀 Indie Hacker building things on the internet
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonymanh-dev&theme=radical&hide_border=true" alt="Contribution Graph" />
+🇻🇳 Vietnam → 🇯🇵 Japan  
+
+Build to learn. Build to make.  
+Mostly coding. Sometimes sleeping.
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 💻 About Me
 
-<p align="left">
-<a href="https://twitter.com/tonymanh_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+- 🔭 Currently building **Stuley** (AI study tool)
+- 📱 Building mobile apps with React Native & Expo
+- 🌐 Creating full-stack SaaS with modern stacks
+- 🤖 Exploring AI Agents & automation
+- ⚡ Love clean UI + fast execution
+
+---
+
+## 🚀 Latest Products
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://stuley.com/" target="_blank">
+<img src="https://tonymanh.vercel.app/stuley.png" width="80" />
 </a>
-<a href="https://instagram.com/manh_eng" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+
+### Stuley  
+The #1 study tool to ace exams without burnout.  
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://www.loomr.co/" target="_blank">
+<img src="https://tonymanh.vercel.app/loomr.png" width="80" />
 </a>
-<a href="https://linkedin.com/in/tonymanh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+### Loomr  
+Build standalone AI agents in minutes.  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://www.kachiai.app/" target="_blank">
+<img src="https://tonymanh.vercel.app/kachiai.png" width="80" />
 </a>
-</p>
+
+### Kachi AI  
+AI-powered trading insights & real-time analysis.  
+
+</td>
+<td align="center">
+
+<a href="https://www.instagen.com/" target="_blank">
+<img src="https://tonymanh.vercel.app/instagen.png" width="80" />
+</a>
+
+### Instagen  
+Generate stunning AI images & videos instantly.  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://www.honkist.com/" target="_blank">
+<img src="https://tonymanh.vercel.app/honkist.png" width="80" />
+</a>
+
+### Honkist  
+Short, powerful ideas from books — enhanced by AI.  
+
+</td>
+<td></td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## ⚒️ Tech Stack
+
+### 🧠 Programming Languages
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+</div>
+
+### 🎨 Frontend Development
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" />
+<img src="https://img.icons8.com/color/240/material-ui.png" width="60" />
+</div>
+
+### 📱 Mobile
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" /> React Native  
+Expo • EAS Build
+</div>
+
+### 🛠 Backend
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" />
+</div>
+
+### ☁️ BaaS & Cloud
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
+</div>
+
+### 🎨 Design & Tools
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+GitHub Actions • CI/CD
+</div>
+
+---
+
+## 📊 Analytics & Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tonymanh-dev&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymanh-dev&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonymanh-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonymanh-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonymanh-dev&theme=tokyonight" />
+
+</div>
 
 ---
 
