@@ -26,74 +26,31 @@ Mostly coding. Sometimes sleeping.
 - ⚡ Love clean UI + fast execution
 
 ---
+
 ## 🚀 Latest Products
 
-<div align="center">
+### <img src="https://tonymanh.vercel.app/stuley.png" width="36" /> [Stuley](https://stuley.com/)
+The #1 study tool to ace exams without burnout.
 
-<table>
-<tr>
-<td align="center" width="50%">
+---
 
-<a href="https://stuley.com/" target="_blank">
-<img src="https://tonymanh.vercel.app/stuley.png" width="90" style="border-radius: 20px;" />
-</a>
+### <img src="https://tonymanh.vercel.app/loomr.png" width="36" /> [Loomr](https://www.loomr.co/)
+Build standalone AI agents in minutes.
 
-### Stuley  
-The #1 study tool to ace exams without burnout.  
+---
 
-</td>
-<td align="center" width="50%">
+### <img src="https://tonymanh.vercel.app/kachiai.png" width="36" /> [Kachi AI](https://www.kachiai.app/)
+AI-powered trading insights & real-time analysis.
 
-<a href="https://www.loomr.co/" target="_blank">
-<img src="https://tonymanh.vercel.app/loomr.png" width="72" style="border-radius: 20px;" />
-</a>
+---
 
-### Loomr  
-Build standalone AI agents in minutes.  
+### <img src="https://tonymanh.vercel.app/instagen.png" width="36" /> [Instagen](https://www.instagen.com/)
+Generate stunning AI images & videos instantly.
 
-</td>
-</tr>
+---
 
-<tr>
-<td align="center">
-
-<a href="https://www.kachiai.app/" target="_blank">
-<img src="https://tonymanh.vercel.app/kachiai.png" width="72" style="border-radius: 20px;" />
-</a>
-
-### Kachi AI  
-AI-powered trading insights & real-time analysis.  
-
-</td>
-<td align="center">
-
-<a href="https://www.instagen.com/" target="_blank">
-<img src="https://tonymanh.vercel.app/instagen.png" width="72" style="border-radius: 20px;" />
-</a>
-
-### Instagen  
-Generate stunning AI images & videos instantly.  
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://www.honkist.com/" target="_blank">
-<img src="https://tonymanh.vercel.app/honkist.png" width="72" style="border-radius: 20px;" />
-</a>
-
-### Honkist  
-Short, powerful ideas from books — enhanced by AI.  
-
-</td>
-<td></td>
-</tr>
-
-</table>
-
-</div>
+### <img src="https://tonymanh.vercel.app/honkist.png" width="36" /> [Honkist](https://www.honkist.com/)
+Short, powerful ideas from books — enhanced by AI.
 
 ---
 
