@@ -31,7 +31,7 @@ I build productivity products, mobile apps, and modern web platforms.
 ### 🧩 Frontend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> React Native
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
@@ -51,31 +51,11 @@ I build productivity products, mobile apps, and modern web platforms.
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-CI/CD • Vercel • EAS Build • GitHub Actions
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tonymanh-dev&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymanh-dev&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
 
