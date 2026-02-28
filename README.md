@@ -30,58 +30,62 @@ Mostly coding. Sometimes sleeping.
 
 <div align="center">
 
-<p>
+<ul style="list-style: none; padding: 0;">
+
+<li>
 <a href="https://stuley.com/">
 <img src="https://tonymanh.vercel.app/stuley.png" width="36" align="middle"/>
-<b style="font-size:18px;"> Stuley</b>
+<b> Stuley</b>
 </a>
-</p>
-
+<br/>
 The #1 study tool to ace exams without burnout.
+</li>
 
 <br/>
 
-<p>
+<li>
 <a href="https://www.loomr.co/">
 <img src="https://tonymanh.vercel.app/loomr.png" width="36" align="middle"/>
-<b style="font-size:18px;"> Loomr</b>
+<b> Loomr</b>
 </a>
-</p>
-
+<br/>
 Build standalone AI agents in minutes.
+</li>
 
 <br/>
 
-<p>
+<li>
 <a href="https://www.kachiai.app/">
 <img src="https://tonymanh.vercel.app/kachiai.png" width="36" align="middle"/>
-<b style="font-size:18px;"> Kachi AI</b>
+<b> Kachi AI</b>
 </a>
-</p>
-
+<br/>
 AI-powered trading insights & real-time analysis.
+</li>
 
 <br/>
 
-<p>
+<li>
 <a href="https://www.instagen.com/">
 <img src="https://tonymanh.vercel.app/instagen.png" width="36" align="middle"/>
-<b style="font-size:18px;"> Instagen</b>
+<b> Instagen</b>
 </a>
-</p>
-
+<br/>
 Generate stunning AI images & videos instantly.
+</li>
 
 <br/>
 
-<p>
+<li>
 <a href="https://www.honkist.com/">
 <img src="https://tonymanh.vercel.app/honkist.png" width="36" align="middle"/>
-<b style="font-size:18px;"> Honkist</b>
+<b> Honkist</b>
 </a>
-</p>
-
+<br/>
 Short, powerful ideas from books — enhanced by AI.
+</li>
+
+</ul>
 
 </div>
 
