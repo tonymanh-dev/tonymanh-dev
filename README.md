@@ -56,15 +56,38 @@ CI/CD • Vercel • EAS Build • GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymanh-dev&theme=radical&show_icons=true&locale=en&layout=compact" />
-</p>
+<div align="center">
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonymanh-dev&theme=radical&show_icons=true" />
-</p>
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tonymanh-dev&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymanh-dev&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonymanh-dev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonymanh-dev&theme=radical&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
